@@ -1,2 +1,2 @@
 # MERLIN
-Personal Assistant with Facial recognition.
+Personal Assistant with Voice recognition.
